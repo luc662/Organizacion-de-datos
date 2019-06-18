@@ -9,7 +9,7 @@ Features para TP2:
     std_hour: Idem.  
     contador: cuantas veces aparecio una persona en las subastas hasta la fecha.
     Surce_id[0-9]: aplicacion de one hot encoding a la columna de Source id, luego, se cuentan para cada usuario, cuantas veces aparecio en     cada source.  
-      
+    tiempo_entre_subastas: tiempo que tardo una persoan entre una subasta y otra  
   CLicks:  
       time_to_click_min: Tiempo minimo que tardo la persona en hacer click  
        time_to_click_max: Tiempo maximo que tardo la persona en hacer click  
