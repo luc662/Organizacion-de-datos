@@ -1,7 +1,7 @@
 # Organizacion-de-datos  
 repositorio para los tp de organiozacion de datos.  
-Informe:https://www.overleaf.com/read/xqrzdvvpcchv  
-Para editar:https://www.overleaf.com/6254911486spycqyqxmhcr  
+Informehttps://es.overleaf.com/read/ncsppjdvnmxx
+Para editar:https://es.overleaf.com/7833253455kzwjycjgjcyt
 Features para TP2:  
   Esta seccion dejamos anotado los features implementados hasta el momento para el tp2, asi es mas facil organizarnos
   Auctions:  
